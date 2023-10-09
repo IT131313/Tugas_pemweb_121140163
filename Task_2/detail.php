@@ -19,7 +19,7 @@
 
         echo "<p><strong>Nama:</strong> $nama</p>";
         echo "<p><strong>NIM:</strong> $nim</p>";
-        echo "<p><strong>Nama:</strong> $prodi</p>";
+        echo "<p><strong>Prodi:</strong> $prodi</p>";
         echo "<p><strong>Email:</strong> $email</p>";
         echo "<p><strong>ALamat:</strong> $alamat</p>";
           ?>
